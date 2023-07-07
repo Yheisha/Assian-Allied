@@ -1,0 +1,138 @@
+body {
+    font-family: 'Montserrat', 'Ruthligos', sans-serif;
+}
+
+.main-btn {
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left: 30px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #005EB8;
+    border-style: none;
+    width: 226px;
+    height: 59px;
+    top: 45px;
+    left: 1084px;
+    border-radius: 8px;
+}
+
+.navbar-nav a {
+    margin-left: 10px;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#navbarNav {
+    margin-left: 130px;
+}
+
+.container-fluid img {
+    margin-left: 90px;
+    margin-top: 41px;
+    width: 300px;
+    height: 68px;
+}
+
+.header-bg {
+    height: 670px;
+}
+
+.header-text h1 {
+    font-weight: 700;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    color: #303030;
+}
+
+.header-text {
+    margin: 60px;
+}
+
+.container {
+    margin-top: 150px;
+}
+
+.row h1 {
+    font-weight: 700;
+    font-size: 35px;
+    color: black;
+}
+
+.row p {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.group-img img {
+    width: 100%;
+    height: 270px;
+}
+
+.group-img {
+    margin-top: 150px;
+}
+
+.values h1 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #303030;
+}
+
+.values ul li {
+    list-style: none;
+}
+
+.fa-regular {
+    color: #005EB8;
+}
+
+.featurette-heading {
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 35px;
+    color: #303030;
+}
+
+.featurette p {
+    line-height: 40px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 18.5px;
+}
+
+.featurette-btn {
+    margin-top: 20px;
+    width: 245px;
+    height: 58px;
+    border-style: none;
+    border-radius: 8px;
+    background-color: #005EB8;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+}
+
+.featurette img {
+    width: 500px;
+    height: 550px;
+}
+
+.book-section2 {
+    background-color: #005EB8;
+  }
+  
+  .book-section2 h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-weight: 700;
+    font-size: 30px;
+  }
+  
+  .book-section2 h1 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 66px;
+    font-family: 'Montserrat', sans-serif;
+  }
